@@ -1,4 +1,4 @@
-Zigzag (or diagonal) traversal of Matrix
+/*Zigzag (or diagonal) traversal of Matrix
 Given a 2D matrix, print all elements of the given matrix in diagonal order. For example, consider the following 5 X 4 input matrix.
 
     1     2     3     4
@@ -16,3 +16,4 @@ Diagonal printing of the above matrix is
    18    15    12
    19    16
    20
+  */
